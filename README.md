@@ -3,6 +3,8 @@ Budget Calculator 💰
 
 A simple and easy-to-use budget calculator app built with React. It allows you to track your expenses and see your total spending at a glance.
 
+https://specv-budget.netlify.app/
+
 Features 💡
 -----------
 
