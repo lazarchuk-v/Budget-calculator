@@ -40,3 +40,6 @@ Local Storage 💾
 ----------------
 
 The expenses data is saved in the local storage so that you won't lose your expenses data even after you refresh the page.
+
+</br>
+#### Enjoy using the Budget Calculator! 💰💸
